@@ -1,0 +1,21 @@
+export default {
+  colorList1: ['dodgerblue', 'black', 'brown', 'crimson', 'darkolivegreen'],
+  colorList2: ['indigo', 'peru', 'tomato', 'yellow', 'lightslategrey'],
+  SELECTED_COLOR: 'SELECTED_COLOR',
+  FILL_COLOR: 'FILL_COLOR',
+  CHECK_ANSWER: 'CHECK_ANSWER',
+  RESET: 'RESET',
+  SET_ANSWER_COLORS: 'SET_ANSWER_COLORS',
+  colorList: [
+    'dodgerblue',
+    'black',
+    'brown',
+    'crimson',
+    'darkolivegreen',
+    'indigo',
+    'peru',
+    'tomato',
+    'yellow',
+    'lightslategrey',
+  ],
+};
